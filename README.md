@@ -9,7 +9,7 @@ solution.
 ## Gallery
 
 ![Screenshot 2024-01-27 213255](https://github.com/subashsriniwas/Employee-Management-System/assets/132041545/0d9d6935-9994-485b-8046-e46c4ebcebd7)
-![Screenshot 2024-01-27 213314](https://github.com/subashsriniwas/Employee-Management-System/assets/132041545/11f8c247-3411-4aad-a7c6-9249d56e4317)
+![Screenshot 2024-01-27 213232](https://github.com/subashsriniwas/Employee-Management-System/assets/132041545/c464524d-7e36-40c8-8783-dc520ec69067)
 ![Screenshot 2024-01-27 213314](https://github.com/subashsriniwas/Employee-Management-System/assets/132041545/8f665f8c-a7dc-448f-9fae-9f283dd49e84)
 
 ## Technologies Used:
